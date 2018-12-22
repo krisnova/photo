@@ -12,7 +12,7 @@
  - Not to get banned from either service for automating too much
  - Write this in Rust because the internet hates me
 
-<p align="center"><img src="diagram.png" width="600"></p>
+<p align="center"><img src="diagram_1.png" width="600"></p>
 <p align="center">Over engineered photography laziness.</p>
 
 # Non goals

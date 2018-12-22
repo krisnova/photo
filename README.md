@@ -3,7 +3,7 @@
 <p align="center"><img src="tweet.png" width="360"></p>
 <p align="center"><b>You picked the language, here is the program.</b></p>
 
-My photography system, written in Rust. 
+<p align="center"><b>My photography system, written in Rust.  </b></p>
 
 # Goals
 
